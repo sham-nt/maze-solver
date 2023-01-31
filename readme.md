@@ -2,7 +2,7 @@
 A Project to construct a randomized maze and solve it using Python, Tkinter library 
 
 ---
-A maze is construct randomly after initialising the **Cells** on the tkinter window
+A maze is constructed randomly after initialising the **Cells** on the tkinter window
 
 ![Screenshot 2023-01-31 at 8 20 11 PM](https://user-images.githubusercontent.com/90405823/215793599-36894213-b5a6-4ac0-909c-fee6b4760825.jpg)
 
